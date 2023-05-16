@@ -1,1 +1,2 @@
 # nosql-challenge
+In this challenge you will find importation of json files with mongo. Using queries to get results from json files. Run commands to count documents, find fields with json file, sort data by name, sort data by < or >, convert lists to dataframes. Write a match_query, group query, sort_values query, and establish a pipleing to aggregate data into a list, then finally into a dataframe. 
